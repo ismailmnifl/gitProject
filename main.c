@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+// newb master
 // la fonction menu  qui permet a l'utilisateur de choisir 
 int menu()
 {			printf("=============================================\n");
