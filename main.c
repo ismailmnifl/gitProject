@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+//branch newB
 // la fonction menu  qui permet a l'utilisateur de choisir 
 int menu()
 {			printf("=============================================\n");
@@ -168,3 +169,6 @@ int main()
       } 
     return 0;
 }
+
+
+
