@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 //branch newB
+//ismail nin new branch
 // la fonction menu  qui permet a l'utilisateur de choisir 
 int menu()
 {			printf("=============================================\n");
