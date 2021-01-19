@@ -3,7 +3,7 @@
 #include <math.h>
 
 // newb master
-
+// ismail mnifil 
 //branch newB
 
 // la fonction menu  qui permet a l'utilisateur de choisir 
