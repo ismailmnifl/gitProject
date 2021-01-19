@@ -1,15 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-<<<<<<< HEAD
-
-// newb master
-// anas nevezu
-//branch newB
-=======
-<<<<<<< HEAD
-
->>>>>>> af974a1d51778f2b3e1eb82d32bab90e9a7cfd0d
 
 // la fonction menu  qui permet a l'utilisateur de choisir 
 int menu()
