@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-<<<<<<< HEAD
-
 
 // la fonction menu  qui permet a l'utilisateur de choisir 
 int menu()
