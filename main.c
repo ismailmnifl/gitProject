@@ -13,7 +13,7 @@
 // la fonction menu  qui permet a l'utilisateur de choisir 
 int menu()
 {			printf("=============================================\n");
-            //printf("votre calculatrice scientifique");
+            //printf("votre calculatrice scientifique : ");
 	        printf("MENU\n");
 	        printf("=============================================\n");
 		    printf("1. les simple operation : + | - | x | / \n2. table de mutiplication d'un nombre\n3. autre operation \n4. finir\n");
