@@ -3,11 +3,7 @@
 #include <math.h>
 
 // newb master
-<<<<<<< HEAD
-// youcode anas
-=======
-// ismail mnifil 
->>>>>>> 213dbe00c8177df243b933192e11d63013850c81
+// anas nevezu
 //branch newB
 
 // la fonction menu  qui permet a l'utilisateur de choisir 
